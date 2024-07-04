@@ -20,7 +20,7 @@ We assume all generators and outsourced energy are renewables in this scenario.
 ## Sets:
 
 Sets in this code are seen as specific scenarios. We can combine these sets to form a 5D array, which represent all possible scenarios.
-An example of this would be the scenario (i,j,k,l,m) where each digit is a given set. 
+An example of this would be the scenario (i,j,k,l,m) where each variable is a given set. 
 Given sets are listed below:
 
 
@@ -30,10 +30,10 @@ The pre-determined parameters are defined within the given code/files:
 
 1. Fixed operation cost \n
 2. Additional cost to buy additional power
-Demand for each time period
-Gen 1 availability 
-Gen 2 availability 
-Fixed cost per unit capacity of generator j    
+3. Demand for each time period
+4. Gen 1 availability 
+5. Gen 2 availability 
+6. Fixed cost per unit capacity of generator j    
 
 
 ## Constaints
