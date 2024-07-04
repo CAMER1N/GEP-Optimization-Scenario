@@ -53,4 +53,4 @@ The variables the solver will output are listed below:
 
 ## Objective
 
-
+The objective is to minimize the cost of generator installation and power purchased from outside sources.
