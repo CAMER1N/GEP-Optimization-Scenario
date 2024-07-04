@@ -54,3 +54,7 @@ The variables the solver will output are listed below:
 ## Objective
 
 The objective is to minimize the cost of generator installation and power purchased from outside sources.
+
+# Data
+
+The given Excel file data is just a starting point. You should conduct sensitivity analysis to find data sets that give you interesting results.
