@@ -24,7 +24,7 @@ An example of this would be the scenario (i,j,k,l,m) where each variable is a gi
 Given sets are listed below:
 
 
-## Parameters:
+## Parameters
 
 The pre-determined parameters are defined within the given code/files:
 
@@ -38,6 +38,19 @@ The pre-determined parameters are defined within the given code/files:
 
 ## Constaints
 
+The pre-determined constraints are defined within the given code/files:
+
+1. Demand Satisfaction Constraint
+2. Availability Constraints
+
 ## Variables
+
+The variables the solver will output are listed below:
+
+1. x = installed capacity of generator j
+2. y = operating level of generator j
+3. y_purchased = Additional capacity purchased
+
+## Objective
 
 
