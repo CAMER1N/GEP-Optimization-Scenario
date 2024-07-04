@@ -28,8 +28,8 @@ Given sets are listed below:
 
 The pre-determined parameters are defined within the given code/files:
 
-Fixed operation cost \n
-Additional cost to buy additional power
+1. Fixed operation cost \n
+2. Additional cost to buy additional power
 Demand for each time period
 Gen 1 availability 
 Gen 2 availability 
